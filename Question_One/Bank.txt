@@ -1,0 +1,3 @@
+MichaelDeposited $1000.0. New balance: $6000.0
+MichaelWithdrawn $2000.0. New balance: $4000.0
+MichaelCurrent balance4000.0
